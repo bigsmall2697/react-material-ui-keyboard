@@ -61,10 +61,10 @@ For supported keys read [KEYSUPPORT](https://github.com/bigsmall2697/react-mater
 ```js 
 const NumericKeyboard = [
     ['Escape', '-', 'Backspace'],
-    ['7',      '8',        '9'],
-    ['4',      '5',        '6'],
-    ['1',      '2',        '3'],
-    ['0',      '.',    'Enter']
+    ['7',      '8',         '9'],
+    ['4',      '5',         '6'],
+    ['1',      '2',         '3'],
+    ['0',      '.',     'Enter']
 ];
 ```
 
