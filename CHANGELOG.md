@@ -220,3 +220,9 @@ Chech for examples [GALLERY](https://github.com/bigsmall2697/react-material-ui-k
 ## [v6.0.2](https://github.com/bigsmall2697/react-material-ui-keyboard/releases/tag/6.0.2)
 
 - Using npm badge for README.md#Install
+
+## [v6.0.3](https://github.com/bigsmall2697/react-material-ui-keyboard/releases/tag/6.0.3)
+
+### Bug fixes
+
+- Fixing bug: `Uncaught TypeError: Cannot read property 'minHeight' of undefined` when no `style`s are passed to `textField`
