@@ -249,7 +249,7 @@ Chech for examples [GALLERY](https://github.com/bigsmall2697/react-material-ui-k
 
 ### Properties
 
-- `nativeVirtualKeyboard` is now deprecated. Instead `readOnly` is computed based on `automatic` and `open`
+- `nativeVirtualKeyboard` is now deprecated. `readOnly` is now computed based on `automatic` and `open` for the input. For keyboard input field it's always `true`
 
 ### Bug fixes
 
